@@ -22,3 +22,7 @@ Before you begin, ensure you have the following software installed:
    ```sh
    git clone https://github.com/your-username/react-product-favorites.git
    cd react-product-favorites
+
+Install dependencies:
+npm install
+

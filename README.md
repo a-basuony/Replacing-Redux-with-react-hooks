@@ -24,5 +24,9 @@ Before you begin, ensure you have the following software installed:
    cd react-product-favorites
 
 Install dependencies:
+  ```sh
 npm install
 
+Running the App
+To start the development server and run the app, use the following command:
+  ```sh
